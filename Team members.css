@@ -13,6 +13,10 @@ html,body{
 	margin-right: auto;
 	border: 5px dashed black;
 }
+table{
+	background-image: url(back.jpg);
+	background-size: cover;
+}
 th,td,tr{
 	border: 2px solid black;
 	border: collapse;
